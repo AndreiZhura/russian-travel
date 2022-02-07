@@ -9,7 +9,6 @@ line-height: 28px;
 text-align: right;
 text-decoration-line: underline;
 color: #FFFFFF;
-border: 1px solid rebeccapurple;
 margin-top: 46px;
 }
 
@@ -19,15 +18,24 @@ margin-top: 46px;
 }
 
 @media screen and (max-width:1280px) {
-    
+    .header__lang-link{
+
+    }
 }
 
 @media screen and (max-width:1024px) {
-    
+    .header__lang-link{
+        
+    }
 }
 @media screen and (max-width:768px) {
-    
+    .header__lang-link{
+        
+    }
 }
 @media screen and (max-width:320px) {
-    
+    .header__lang-link{
+        width: 22px;
+        height: 20px;
+    }
 }
