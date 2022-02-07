@@ -1,8 +1,21 @@
 .lead__title{
-    text-align: center;
-    width: 720px;
-    height: 200px;
-    font-size: 96px;
-    line-height: 100px;
-    
+/* __title */
+
+position: absolute;
+width: 720px;
+height: 200px;
+left: 280px;
+top: 136px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 100px;
+/* or 104% */
+text-align: center;
+
+color: #FFFFFF;
+
+
 }

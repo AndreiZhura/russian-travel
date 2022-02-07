@@ -1,6 +1,33 @@
 .header__lang-link{
-    width: 30px;
-    height: 28px;
-    text-decoration: none;
-    color: white;
+width: 30px;
+height: 28px;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: right;
+text-decoration-line: underline;
+color: #FFFFFF;
+border: 1px solid rebeccapurple;
+margin-top: 46px;
+}
+
+.header__lang-link:nth-child(2)
+{
+    margin-left: 18px;
+}
+
+@media screen and (max-width:1280px) {
+    
+}
+
+@media screen and (max-width:1024px) {
+    
+}
+@media screen and (max-width:768px) {
+    
+}
+@media screen and (max-width:320px) {
+    
 }
