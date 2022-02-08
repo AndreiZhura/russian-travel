@@ -13,29 +13,24 @@
     margin-right: auto;
     color: #FFFFFF;
     max-width: 1280px;
+    border: 1px solid green;
 }
 
 @media screen and (max-width: 1280px)
 { 
     .lead__title{
-        width: calc(100% - 2 * 132px);
+        width: 720px;
+        height: 200px;
     }
 }
-@media screen and (max-width: 1024px)
+
+
+@media screen and (max-width: 425px)
 { 
     .lead__title{
-  
-     }
-}
-@media screen and (max-width: 768px)
-{ 
-    .lead__title{
-     
-     }
-}
-@media screen and (max-width: 320px)
-{ 
-    .lead__title{
-      font-size: calc(96px - 46px);
+        width: 288px;
+        height: 88px;
+        font-size: 40px;
+        line-height: 44px;
      }
 }
