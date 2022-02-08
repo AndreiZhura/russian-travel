@@ -5,14 +5,20 @@
     font-size: 96px;
     line-height: 100px;
     text-align: center;
+    width: 720px;
+    height: 200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
     color: #FFFFFF;
-
+    max-width: 1280px;
 }
 
 @media screen and (max-width: 1280px)
 { 
     .lead__title{
-     
+        width: calc(100% - 2 * 132px);
     }
 }
 @media screen and (max-width: 1024px)
@@ -30,6 +36,6 @@
 @media screen and (max-width: 320px)
 { 
     .lead__title{
-      
+      font-size: calc(96px - 46px);
      }
 }

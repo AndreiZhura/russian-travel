@@ -1,3 +1,7 @@
 .photo-grid{
-    
+    position:relative;
+    display: grid;
+    grid-template-columns: repeat(4,20%);
+    grid-template-rows: repeat(3,1fr);
+    border: 1px solid green;
 }
