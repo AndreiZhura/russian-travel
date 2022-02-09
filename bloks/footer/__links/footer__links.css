@@ -6,10 +6,6 @@
     margin-bottom: 0px;
 }
 
-.footer__link:last-child(5)
-{
-    margin-right: 0px;
-}
 
 
 @media screen and (max-width:321px) {
