@@ -3,14 +3,14 @@
     flex-direction: column;
     align-items: flex-start;
     width: 690px;
-    height: 429px;
     border: 1px solid rgb(0, 255, 0);
+    margin-left: 20vw;
 }
 
 @media screen and (max-width: 1280px)
 { 
     .intro{
-       
+        margin-left: 148px;
         
     }
 }
@@ -31,6 +31,10 @@
 @media screen and (max-width: 320px)
 { 
     .intro{
-        
+    margin-left: 0px;
+    width: 288px;
+    height: 754px;
+    font-size: 32px;
+    line-height: 35px;
     }
 }
