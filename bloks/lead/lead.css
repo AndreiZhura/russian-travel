@@ -1,28 +1,17 @@
 .lead{
-  width: 984px;
-  height: 1005px;
+  max-width: 984px;
+  max-height: 1005px;
   margin: 28px auto 0px;
+  border: 1px solid red;
+  
 }
 
 @media screen and (max-width:1280px) {
   .lead{
-    position: relative;
+  position: relative;
   width: calc(100vw - 2 * 48px);
-  height: 1005px;
   margin-top: 48px;
   margin-bottom: 0px;
-  }
-}
-
-@media screen and (max-width:1024px) {
-  .lead{
-    height: 968px;
-  }
-}
-
-@media screen and (max-width:768px) {
-  .lead{
-  height: 862px;
   }
 }
 
