@@ -1,6 +1,6 @@
 .place__image{
-    max-width: 460px;
-    max-height: 460px;
-    grid-area:pi;
-    
+    width: 300px;
+    height: 300px;
+    grid-area: image;
+   
 }

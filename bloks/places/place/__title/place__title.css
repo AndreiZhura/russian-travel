@@ -1,3 +1,4 @@
 .place__title{
-    grid-area: pt;
-}
+    grid-area: title;
+    font-size: 32px;
+    }
