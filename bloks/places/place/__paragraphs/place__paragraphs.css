@@ -5,3 +5,21 @@
     margin-right: 0px;
     border:1px solid green;
 }
+
+@media screen and (max-width:1024px) {
+    .place__paragraphs{
+        margin-left:32px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .place__paragraphs{
+        margin-left:28px;
+    }
+}
+@media screen and (max-width:425px) {
+    .place__paragraphs{
+    width: 100%;
+    margin-left:0px;
+    }
+}
