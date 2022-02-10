@@ -5,3 +5,19 @@
     font-size: 18px;
     line-height: 163%;
     }
+
+    @media screen and (max-width:768px) {
+     .paragraph{
+     font-size: 18px;
+     line-height: 163%;
+     }
+        
+    }
+
+    @media screen and (max-width:425px) {
+        .paragraph{
+         font-size: 16px;
+         line-height: 163%;
+        }
+           
+       }

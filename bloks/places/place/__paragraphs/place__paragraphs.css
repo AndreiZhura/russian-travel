@@ -1,3 +1,7 @@
 .place__paragraphs{
-    
+    width: 90%;
+    height: 100%;
+    margin-left:40px;
+    margin-right: 0px;
+    border:1px solid green;
 }

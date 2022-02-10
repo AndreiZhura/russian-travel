@@ -22,11 +22,13 @@
 @import url(../bloks/places/places.css);
 @import url(../bloks/places/place/place.css);
 @import url(../bloks/places/place/__title/place__title.css);
-@import url(../bloks/places/place/__paragraph/place__paragraph.css);
+@import url(../bloks/places/places.css);
+@import url(../bloks/places/place/__paragraphs/place__paragraphs.css);
+@import url(../bloks/places/place/__paragraphs/__paragraph/place__paragraph.css);
 @import url(../bloks/places/place/__image/place__image.css);
 @import url(../bloks/places/place/__website/place__website.css);
-@import url(../bloks/places/place/__website/place__website__url-heading.css);
 @import url(../bloks/places/place/__website/place__website__link.css);
+@import url(../bloks/places/place/__website/place__website__url-heading.css);
 
 
 @import url(../bloks/cover/cover.css);
