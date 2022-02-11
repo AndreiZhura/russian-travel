@@ -1,3 +1,4 @@
 .cover__overlay{
-
+    position: absolute;
+    width: 100%;
 }

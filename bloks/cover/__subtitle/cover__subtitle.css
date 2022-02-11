@@ -1,9 +1,15 @@
 .cover__subtitle{
-    max-width: 360px;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 122%;
-    position: absolute;
-    z-index: 2;
-    margin: 429px 412px 245px;
+  border: 1px solid red;
+  position: absolute;
+  max-width: 360px;
+  max-height: 66px;
+  top: calc(65% - 111px / 2);
+  left: calc(50% - 360px / 2);
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
 }
