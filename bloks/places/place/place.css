@@ -1,10 +1,12 @@
 .place{
   border:1px solid rgb(51, 255, 0);
+  height: 660px;
   display: grid;
- grid-template-columns: 45% 55%;
+ grid-template-columns: 50% 50%;
  grid-template-rows: 20% 80%;
  grid-template-areas: "t w"
                       " i p";
+
 }
 
 @media screen and (max-width:425px) {
