@@ -1,4 +1,5 @@
 .place__paragraphs{
+    border: 1px solid blue;
     grid-area: p;
     font-family: Inter;
     font-style: normal;
@@ -6,6 +7,7 @@
     font-size: 18px;
     line-height: 163%;
     padding-left: 40px;
+    padding: 0px;
     }
 
     @media screen and (max-width:425px) {
