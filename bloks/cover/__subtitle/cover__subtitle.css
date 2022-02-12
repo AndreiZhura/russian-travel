@@ -1,4 +1,5 @@
 .cover__subtitle{
+  border: 1px solid red;
   position: absolute;
   max-width: 360px;
   max-height: 66px;
