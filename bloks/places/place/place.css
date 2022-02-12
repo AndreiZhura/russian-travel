@@ -1,6 +1,5 @@
 .place{
-  border:1px solid rgb(51, 255, 0);
-  height: 660px;
+  border: 1px solid green;
   display: grid;
  grid-template-columns: 50% 50%;
  grid-template-rows: 20% 80%;
@@ -11,13 +10,16 @@
 
 @media screen and (max-width:425px) {
   .place{
+    height: 965px;
       display: grid;
       grid-template-columns: 100%;
-      grid-template-rows: 6% 14% 30% 50%;
+      grid-template-rows: 5% 15% 25% 55%;
       grid-template-areas: "t"
                            "w"
                            "i"
                            "p";
 
+
+                          
   }
 }

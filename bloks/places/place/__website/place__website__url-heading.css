@@ -7,4 +7,11 @@ line-height: 170%;
 letter-spacing: 2px;
 color: #AAAAAA;
 margin-bottom: 12px;
+text-decoration-line: none;
+}
+
+@media screen and (max-width:425) {
+    .place__website__url-heading{
+        margin-bottom: 12px;
+    }
 }
