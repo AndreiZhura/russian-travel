@@ -18,15 +18,15 @@ opacity: 1;
 @media screen and (max-width:425px) {
   .cover__title{
     position: absolute;
-font-family: Inter;
-font-style: normal;
-font-weight: 900;
-font-size: 32px;
-line-height: 35px;
- width: 288px;
- height: 70px;
- top: calc(50% - 200px / 2);
- left: calc(50% - 145px);
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+    width: 288px;
+    height: 70px;
+    top: calc(50% - 200px / 2);
+    left: calc(50% - 145px);
 
   }
 }
