@@ -1,9 +1,9 @@
 .cover{ 
-    margin: 92px auto 0px; 
-    position: relative;
     border: 1px solid red;
+    position: relative;
+    margin: 92px auto 0px;
     max-width: 1184px;
-    height: 740px;
+    max-height: 784px;
 }
 
 @media screen and (max-width:1024px) {
@@ -26,6 +26,7 @@
 
 @media screen and (max-width:425px) {
     .cover{
+        position:relative ;
         margin-top: 90px;
         width: 320px;
         height: 200px;
