@@ -1,5 +1,4 @@
 .cover__subtitle{
-  border: 1px solid red;
   position: absolute;
   max-width: 360px;
   max-height: 66px;
@@ -11,7 +10,7 @@ font-weight: normal;
 font-size: 18px;
 line-height: 22px;
 text-align: center;
-opacity: 1;
+opacity: .9;
 }
 
 @media screen and (max-width:425px) {
