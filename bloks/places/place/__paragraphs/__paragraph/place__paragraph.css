@@ -5,6 +5,7 @@
     font-size: 18px;
     line-height: 163%;
     margin-top: 40px;
+    border: 1px solid red;
     }
 
     .place__paragraph:last-of-type {
@@ -24,6 +25,7 @@
          line-height: 163%;
          padding: 0px;
          margin: 32px 16px 0px;
+         margin: 0;
         }
     }
 
