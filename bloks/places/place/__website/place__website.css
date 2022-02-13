@@ -1,9 +1,8 @@
 .place__website{
     grid-area: w;
-    padding-left: 40px;
     margin-top: 16px;
     text-decoration: none;
-    }
+}
 
     @media screen and (max-width:425px) {
        
