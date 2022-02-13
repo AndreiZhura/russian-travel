@@ -1,4 +1,4 @@
-.place__website__url-heading{
+.place__website_url-heading{
 font-family: Inter;
 font-style: normal;
 font-weight: normal;
@@ -11,7 +11,7 @@ text-decoration-line: none;
 }
 
 @media screen and (max-width:425) {
-    .place__website__url-heading{
+    .place__website_url-heading{
         margin-bottom: 12px;
     }
 }

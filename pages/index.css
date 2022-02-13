@@ -28,8 +28,8 @@
 @import url(../bloks/places/place/__paragraphs/__paragraph/place__paragraph.css);
 @import url(../bloks/places/place/__image/place__image.css);
 @import url(../bloks/places/place/__website/place__website.css);
-@import url(../bloks/places/place/__website/place__website__link.css);
-@import url(../bloks/places/place/__website/place__website__url-heading.css);
+@import url(../bloks/places/place/__website/place__website_link.css);
+@import url(../bloks/places/place/__website/place__website_url-heading.css);
 
 
 @import url(../bloks/cover/cover.css);
