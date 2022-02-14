@@ -5,7 +5,7 @@
  grid-template-columns: 50% 50%;
  grid-template-rows: 20% 80%;
  grid-template-areas: "t w"
-                      " i p";
+                      "i p";
 
 }
 .place:nth-child(1){
@@ -15,7 +15,7 @@
 
 @media screen and (max-width:425px) {
   .place{
-    height: 965px;
+     height: 965px;
       display: grid;
       grid-template-columns: 100%;
       grid-template-rows: 5% 15% 25% 55%;
