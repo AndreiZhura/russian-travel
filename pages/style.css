@@ -1,8 +1,6 @@
-h1,h2,h3,p,ul{
-color: white;
-}
-
 header,body{
-    background-color: rgb(42, 44, 47);
-   
+    background-color: #2A2C2F;
+}
+h1,h2,h3,p,div{
+    color: white;
 }
