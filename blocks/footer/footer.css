@@ -6,6 +6,14 @@
     color: white;
 }
 
+
+@media screen and (max-width:1280px) {
+    .footer{
+        margin: 92px 48px 48px 24px;
+    }
+}
+
+
 @media screen and (max-width:768px) {
     .footer{
         margin: 88px 24px 24px 24px;
