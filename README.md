@@ -26,4 +26,4 @@ ___
 
 # Мой проект на Яндекс практикуме о путишествии по России
 
-[Моя работа на github](https://github.com/AndreiZhura/russian-travel)
+[Моя работа на github](https://andreizhura.github.io/russian-travel/)
