@@ -8,25 +8,29 @@
  font-style: normal;
  font-weight: 900;
  font-size: 72px;
- line-height: 76px;
+ line-height: 1.1;
  text-align: center;
  z-index: 1;
  color: white;
 
 }
 
+
+
 @media screen and (max-width:425px) {
   .cover__title{
-    position: absolute;
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
     font-size: 32px;
-    line-height: 35px;
-    width: 288px;
+    line-height: 1.1;
+  max-width:250px;
     height: 70px;
     top: calc(50% - 200px / 2);
-    left: calc(50% - 145px);
-
+    left: calc(50% - 125px);
   }
 }
+
+
+
+
